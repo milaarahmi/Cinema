@@ -1,0 +1,202 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+.menu{
+	width:120px; 
+	height:100%; 
+	position:fixed; 
+	background-color:#2b2b2b; 
+	left:0; 
+	top:0; 
+	padding-top: 80px;
+}
+.menu-item{
+	color:#aaa; 
+	font-size: 50px;
+	text-align: center;
+
+}
+.menu-item:hover{
+	background-color: #ffc02d;
+	color: #fff;
+	cursor:pointer;
+}
+.content{
+	width: auto; 
+	padding-left: 120px;
+}
+.content-item{
+	border-bottom: 1px solid #2b2b2b; 
+	height: 70px;
+	padding: 15px 20px;
+}
+.logo{
+	float: left; 
+	font-weight: 900; 
+	font-size: 30px
+}
+.search{
+	 float: right
+}
+.search-item{
+	width: 100%; position: relative; margin-top: -4px;
+}
+.input-search{
+	padding: 5px 25px 5px 5px
+}
+.logo-search{
+	position: absolute; top: 5px; right: 10px; top: 8px
+}
+.background{
+	height: 600px; 
+	background-image: url('../img/1.jpg'); 
+	background-size: cover;
+}
+.bighero{
+	font-weight: 900;font-size: 40px;
+}
+.age{
+	border: 3px solid  #009933; font-size: 15px;color:#009933;border-radius: 5px;padding: 5px; float: left
+}
+.don{
+	float: left; margin-top: 25px; padding-left: 30px;font-weight: 900; font-size: 18px
+}
+.div{
+	margin-top: 15px
+}
+.table{
+	padding-right: 20px;font-weight: 900; font-size: 15px
+}
+.div-trailer{
+	margin-top: 15px; background-color: #ffc02d; color: white; height: 50px; width:60%; border-radius: 5px
+}
+.div-trailer:hover{
+	background-color: black;
+	color: white;
+}
+.logo-trailer{
+	font-size: 40px; padding-top: 5px; float: left;
+}
+.p-trailer{
+	float: left; font-size: 15px; padding-top: 13px; font-weight: 900; padding-left: 10px
+}
+.div-ticket{
+	margin-top: 15px; background-color: #cc7a00; color: white; height: 50px; width:60%; border-radius: 5px
+}
+.div-ticket2{
+	margin-top: 50px; background-color: #cc7a00; color: white; height: 50px; width:40%; 
+	border-radius: 5px; margin-left: 15px
+}
+.div-ticket:hover{
+	background-color: black;
+	color: white;
+}
+.logo-ticket{
+	font-size: 40px; padding-top: 5px; float: left
+}
+.p-ticket{
+	float: left; font-size: 15px; padding-top: 13px; font-weight: 900;padding-left: 10px
+}
+.watch{
+	color: white;font-size: 13px
+}
+.watch:hover{
+	color: #bfbfbf;
+	text-decoration: none;
+}
+.cover{
+	padding: 40px;width: 400px; height: 550px
+}
+.movie{
+	padding-top: 40px; font-size: 30px;padding-left: 30px
+}
+.big{
+	padding-top: 10px
+}
+.director{
+	padding-left: 30px
+}
+.rating{
+	padding-left: 40px;padding-top: 20px;font-weight: 900
+}
+.avg{
+	padding-left: 40px;font-weight: 900;padding-bottom: 15px
+}
+.star{
+	margin-right: 10px
+}
+.review{
+	background-color: #cc0000;margin-right: 10px;text-align: center;color: #fff;font-size: 13px;margin-bottom: 20px;height: 40px
+}
+.trailer{
+	background-color: #668cff;margin-right: 10px;text-align: center;margin-left: 40px;color: #fff;font-size: 13px;margin-bottom: 20px;height: 40px
+}
+.side{
+	height: 5px; background-color: #404040;margin-top: 40px
+}
+.feature{
+	margin-right: 10px;font-size: 20px
+}
+.pic{
+	width: 100%;height: 90px;padding-top: 10px
+}
+.buttom{
+	height: 5px; background-color: #404040;margin-top:200px
+}
+.you{
+	margin-right: 10px;font-size: 20px
+}
+.picbuttom{
+	width: 100%;height: 90px;padding-top: 10px
+}
+.hback{
+	background-color: rgba(255,255,255,0.6); height: 100%
+}
+.hfont{
+	font-weight: 900
+}
+.hvid{
+	border-top: 10px solid #fff
+}
+.hlate{
+	color: #bfbfbf; font-weight: 900;padding: 20px 15px 0px 15px
+}
+.hbook{
+	font-weight: 900;padding:5px 15px 0px 15px;font-size: 40px
+}
+.heasy{
+	color: #bfbfbf;padding: 5px 15px 0px 15px
+}
+.hp{
+	font-size: 20px; color: #cc7a00;padding: 50px 50px 50px 5px;font-weight: 900
+}
+.ha{
+	text-decoration: none; font-size: 30px; color:#cc7a00 
+}
+.h2{
+	color: #bfbfbf; font-weight: 900;padding: 20px 15px 0px 15px
+}
+.hp2{
+	font-size: 20px;font-weight: 900; margin-left: 15px
+}
+.hp3{
+	color:#bfbfbf; font-size: 15px;margin-left: 15px 
+}
+.hp4{
+	color:#bfbfbf; font-size: 15px;margin-left: 15px; border-bottom: 1px solid #bfbfbf;padding-bottom: 20px
+}
+.hnews{
+	color: #bfbfbf; font-weight: 900;padding: 20px 15px 0px 15px
+}
+.hloren{
+	font-size: 20px;font-weight: 900; margin-left: 15px
+}
+.hnov{
+	color:#bfbfbf; font-size: 15px;margin-left: 15px
+}
+.hp4{
+	color:#bfbfbf; font-size: 15px;margin-left: 15px; border-bottom: 1px solid #bfbfbf;padding-bottom: 20px
+}
+.hmore{
+	color:#cc7a00; font-size: 20px;margin-left: 15px;font-weight: 900; border-bottom: 10px solid #fff
+}
